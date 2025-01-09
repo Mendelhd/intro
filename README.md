@@ -1,3 +1,2 @@
 # intro
-Ceci est un TP Git et Python
-
+Ceci est un TP Git et Python 
